@@ -63,6 +63,8 @@ body {
 }
 .header-back {
 	background-color: #F6F2F2;
+	width: 1562px;
+	margin: 0 auto;
 }
 .first-back {
 	background-color: #ffffff;
