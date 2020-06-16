@@ -756,11 +756,13 @@ footer {
 	width: 184px;
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1578px) {
 	.header-back {
 	width: 100%;
 	margin: 0 auto;
 	}
+}
+@media screen and (max-width: 1500px) {
 	.linkmedia {
 		width: 42%;
 		height: auto;
